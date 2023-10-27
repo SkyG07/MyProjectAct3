@@ -1,3 +1,5 @@
+October 27,2023
+
 Thesis Title: "Design and Implementation of a Low-Power, High-Performance RISC-V Processor for Edge Computing Applications"
 
 Thesis Information:
